@@ -14,7 +14,7 @@ public class PrincipalFrame extends JFrame {
 	private PanelButtons panelButtons;
 	
 	public PrincipalFrame() {
-		super("Contacts GridBagLayout");
+		super("Contacts Manager");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		initialize();
 		pack();
